@@ -1944,6 +1944,68 @@
 <dme_energy_adjust>.true.</dme_energy_adjust>
 <volc_fraction_coarse   >0.0</volc_fraction_coarse>
 <aerotab_table_dir>noresm-only/atm/cam/camoslo/AeroTab_8jun17/</aerotab_table_dir>
+
+<MACv2_0-SP_v1     >noresm-only/atm/cam/camoslo/AeroTab_8jun17/MACv2.0-SP_v1.nc</MACv2_0-SP_v1>
+
+<aerocomk0      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/aerocomk0.out</aerocomk0>
+<aerocomk1      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/aerocomk1.out</aerocomk1>
+<aerocomk2      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/aerocomk2.out</aerocomk2>
+<aerocomk3      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/aerocomk3.out</aerocomk3>
+<aerocomk4      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/aerocomk4.out</aerocomk4>
+<aerocomk5      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/aerocomk5.out</aerocomk5>
+<aerocomk6      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/aerocomk6.out</aerocomk6>
+<aerocomk7      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/aerocomk7.out</aerocomk7>
+<aerocomk8      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/aerocomk8.out</aerocomk8>
+<aerocomk9      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/aerocomk9.out</aerocomk9>
+<aerocomk10      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/aerocomk10.out</aerocomk10>
+  
+<aerodryk0      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/aerodryk0.out</aerodryk0>
+<aerodryk1      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/aerodryk1.out</aerodryk1>
+<aerodryk2      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/aerodryk2.out</aerodryk2>
+<aerodryk3      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/aerodryk3.out</aerodryk3>
+<aerodryk4      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/aerodryk4.out</aerodryk4>
+<aerodryk5      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/aerodryk5.out</aerodryk5>
+<aerodryk6      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/aerodryk6.out</aerodryk6>
+<aerodryk7      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/aerodryk7.out</aerodryk7>
+<aerodryk8      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/aerodryk8.out</aerodryk8>
+<aerodryk9      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/aerodryk9.out</aerodryk9>
+<aerodryk10      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/aerodryk10.out</aerodryk10>
+  
+<kcomp0      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/kcomp0.out</kcomp0>
+<kcomp1      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/kcomp1.out</kcomp1>
+<kcomp2      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/kcomp2.out</kcomp2>
+<kcomp3      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/kcomp3.out</kcomp3>
+<kcomp4      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/kcomp4.out</kcomp4>
+<kcomp5      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/kcomp5.out</kcomp5>
+<kcomp6      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/kcomp6.out</kcomp6>
+<kcomp7      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/kcomp7.out</kcomp7>
+<kcomp8      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/kcomp8.out</kcomp8>
+<kcomp9      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/kcomp9.out</kcomp9>
+<kcomp10      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/kcomp10.out</kcomp10>
+
+<logntilp1      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/logntilp1.out</logntilp1>
+<logntilp2      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/logntilp2.out</logntilp2>
+<logntilp3      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/logntilp3.out</logntilp3>
+<logntilp4      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/logntilp4.out</logntilp4>
+<logntilp5      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/logntilp5.out</logntilp5>
+<logntilp6      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/logntilp6.out</logntilp6>
+<logntilp7      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/logntilp7.out</logntilp7>
+<logntilp8      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/logntilp8.out</logntilp8>
+<logntilp9      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/logntilp9.out</logntilp9>
+<logntilp10      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/logntilp10.out</logntilp10>
+
+<lwkcomp0      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/lwkcomp0.out</lwkcomp0>
+<lwkcomp1      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/lwkcomp1.out</lwkcomp1>
+<lwkcomp2      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/lwkcomp2.out</lwkcomp2>
+<lwkcomp3      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/lwkcomp3.out</lwkcomp3>
+<lwkcomp4      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/lwkcomp4.out</lwkcomp4>
+<lwkcomp5      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/lwkcomp5.out</lwkcomp5>
+<lwkcomp6      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/lwkcomp6.out</lwkcomp6>
+<lwkcomp7      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/lwkcomp7.out</lwkcomp7>
+<lwkcomp8      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/lwkcomp8.out</lwkcomp8>
+<lwkcomp9      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/lwkcomp9.out</lwkcomp9>
+<lwkcomp10      >noresm-only/atm/cam/camoslo/AeroTab_8jun17/lwkcomp10.out</lwkcomp10>
+
 <dms_source>lana</dms_source>
 <dms_source_type>CYCLICAL</dms_source_type>
 <dms_cycle_year>2000</dms_cycle_year>
