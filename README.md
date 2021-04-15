@@ -8,6 +8,7 @@ This repository has three CAM branches:
 * master - contains this readme and the Code of Conduct information
 * cam_cesm2_1_release - contains the current CESM2.1 CAM code
 * cam_development - contains the current CAM development code (see the important note below before using this branch)
+* (feature-hamocc-vsls)
 
 # CAM-Nor: CAM version in the Norwegian Earth System Model
 
